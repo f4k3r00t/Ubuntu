@@ -37,6 +37,9 @@ sudo apt install htop -y
 sudo apt install btop -y
 sudo apt install neofetch -y
 sudo apt install xfce4-terminal -y
+sudo apt install rkhunter -y
+sudo apt isntall chkrootkit -y
+sudo apt install lynis -y
 
 sleep 1
 

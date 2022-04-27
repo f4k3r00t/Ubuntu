@@ -40,6 +40,7 @@ sudo apt install xfce4-terminal -y
 sudo apt install rkhunter -y
 sudo apt isntall chkrootkit -y
 sudo apt install lynis -y
+sudo apt install synaptic
 
 sleep 1
 

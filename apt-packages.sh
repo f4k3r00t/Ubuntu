@@ -21,7 +21,7 @@ sudo apt install python3-pip -y
 sudo apt install git -y
 sudo apt install vim -y
 sudo apt install youtube-dl -y
-sudo apt instal torbrowser-launcher -y
+sudo apt install torbrowser-launcher -y
 sudo apt install tor -y
 sudo apt install proxychains4 -y
 sudo apt install keepassxc -y
